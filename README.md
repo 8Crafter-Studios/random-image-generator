@@ -17,11 +17,11 @@ It has both a CLI and module exports.
 ```
 Usage:
 
-random-image-generator generate [options] [width] [height] [scale] [directory]      Generate a random iamge of the specified dimensions.
-random-image-generator version                                                      Shows the version number.
-random-image-generator help                                                         Show this help message.
-random-image-generator -h                                                           Show this help message.
-random-image-generator --help                                                       Show this help message.
+random-image-generator-plus generate [options] [width] [height] [scale] [directory]      Generate a random iamge of the specified dimensions.
+random-image-generator-plus version                                                      Shows the version number.
+random-image-generator-plus help                                                         Show this help message.
+random-image-generator-plus -h                                                           Show this help message.
+random-image-generator-plus --help                                                       Show this help message.
 
 Options:
   -o, --overwrite             Overwrite the image file if it already exists.
