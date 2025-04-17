@@ -1,0 +1,31 @@
+{
+  "name": "random-image-generator",
+  "version": "1.0.0",
+  "description": "8Crafter's Random Image Generator. This Node.js program generates images by setting each pixel to a randomly colored pixel.",
+  "keywords": [
+    "8Crafter",
+    "Random",
+    "Image",
+    "Generator",
+    "Corrupted",
+    "Pixel",
+    "CLI",
+    "Node.js",
+    "Module",
+    "Canvas",
+    "PNG"
+  ],
+  "license": "ISC",
+  "author": "8Crafter",
+  "type": "module",
+  "main": "./lib/exports.js",
+  "bin": {
+    "random-image-generator": "./bin/random-image-generator.js"
+  },
+  "scripts": {
+    "test": "node ./lib/random-image-generator.js"
+  },
+  "dependencies": {
+    "canvas": "^3.1.0"
+  }
+}
