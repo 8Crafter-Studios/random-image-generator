@@ -32,7 +32,7 @@ Paramters:
 ## Module
 
 ```js
-import { generateRandomImage } from "random-image-generator";
+import { generateRandomImage } from "random-image-generator-plus";
 
 fs.writeFileSync("./corruptedImage.png", generateRandomImage({width: 128, height: 128, scale: [1, 1], grayscale: false}));
 ```
