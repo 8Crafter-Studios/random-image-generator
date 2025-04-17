@@ -16,10 +16,7 @@
     "PNG"
   ],
   "homepage": "https://github.com/8Crafter-Studios/random-image-generator",
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/8Crafter-Studios/random-image-generator.git"
-  },
+  "repository": "https://github.com/8Crafter-Studios/random-image-generator.git",
   "license": "ISC",
   "author": "8Crafter",
   "type": "module",
