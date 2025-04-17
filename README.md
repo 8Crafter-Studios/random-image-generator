@@ -1,5 +1,13 @@
 # 8Crafter's Random Image Generator
 
+![NPM Downloads](https://img.shields.io/npm/d18m/random-image-generator-plus)
+![NPM Version](https://img.shields.io/npm/v/random-image-generator-plus)
+![NPM License](https://img.shields.io/npm/l/random-image-generator-plus)
+![NPM Last Update](https://img.shields.io/npm/last-update/random-image-generator-plus)
+![NPM Unpacked Size](https://img.shields.io/npm/unpacked-size/random-image-generator-plus)
+![GitHub last commit](https://img.shields.io/github/last-commit/8Crafter-Studios/random-image-generator)
+![Discord](https://img.shields.io/discord/1213197616570048512?logo=discord&label=discord&link=https%3A%2F%2Fdiscord.gg%2FjrCTeHGuhx)
+
 This Node.js program generates images by setting each pixel to a randomly colored pixel.
 
 It has both a CLI and module exports.
