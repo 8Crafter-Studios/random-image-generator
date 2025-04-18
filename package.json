@@ -1,6 +1,6 @@
 {
   "name": "random-image-generator-plus",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "8Crafter's Random Image Generator. This Node.js program generates images by setting each pixel to a randomly colored pixel.",
   "keywords": [
     "8Crafter",
@@ -22,10 +22,10 @@
   "type": "module",
   "main": "./lib/exports.js",
   "bin": {
-    "random-image-generator-plus": "./bin/random-image-generator.js"
+    "random-image-generator-plus": "./bin/random-image-generator-plus.js"
   },
   "scripts": {
-    "test": "node ./lib/random-image-generator.js"
+    "test": "node ./lib/random-image-generator-plus.js"
   },
   "dependencies": {
     "canvas": "^3.1.0"
