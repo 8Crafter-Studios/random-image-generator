@@ -1,5 +1,7 @@
 # 8Crafter's Random Image Generator
 
+![Thumbnail](./assets/thumbnail.png)
+
 [![NPM Downloads](https://img.shields.io/npm/d18m/random-image-generator-plus)](https://npmjs.com/package/random-image-generator-plus)
 [![NPM Version](https://img.shields.io/npm/v/random-image-generator-plus)](https://npmjs.com/package/random-image-generator-plus)
 [![NPM License](https://img.shields.io/npm/l/random-image-generator-plus)](https://npmjs.com/package/random-image-generator-plus)
