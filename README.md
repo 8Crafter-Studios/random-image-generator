@@ -87,11 +87,11 @@ fs.writeFileSync("./corruptedGrayscaleImage.svg", generateRandomImage({ width: 1
 
 ![Height: 512](./sample_images/height-512.png)
 
-### Scale: [x: 20, y: 64]
+### Width: 256, Height: 256, Scale: [x: 20, y: 64]
 
 ![Scale: [x: 20, y: 64]](./sample_images/scale-20-64.png)
 
-### Scale: [x: 20, y: 64], Grayscale: true
+### Width: 256, Height: 256, Scale: [x: 20, y: 64], Grayscale: true
 
 ![Scale: [x: 20, y: 64], Grayscale: true](./sample_images/scale-20-64-grayscale-true.png)
 
